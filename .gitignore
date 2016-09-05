@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/.mvn/
+/mvnw.cmd
+/mvnw
+/PowerTeam.iml
+/target/
+/powerteam.iml
+/doc/PowerTeam.pdb
