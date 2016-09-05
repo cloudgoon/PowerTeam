@@ -31,6 +31,20 @@
 访问 http://localhost:8080/powerteam enjoy it! 如果任何问题，请加入QQ群(466234012)咨询
 > 默认的管理员帐号为admin 密码为admin
 
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-1.png?dir=0&filepath=screenshot%2Fscreenshot-1.png&oid=87ac74d500d8eb948b7a07c63880af09ca3be890&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-2.png?dir=0&filepath=screenshot%2Fscreenshot-2.png&oid=b7777ddb9efe91aea5f19b32affde74bccc3ec28&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-3.png?dir=0&filepath=screenshot%2Fscreenshot-3.png&oid=8b590979cd12e840d9c2eabb085f0429837e0499&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-4.png?dir=0&filepath=screenshot%2Fscreenshot-4.png&oid=45e67aade21220c39f14bf9adfea0bad75c91ed5&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-5.png?dir=0&filepath=screenshot%2Fscreenshot-5.png&oid=5877d33960178e58ab29b39c635c226139c92b9f&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+![image](http://git.oschina.net/yupeng957/PowerTeam/raw/master/screenshot/screenshot-6.png?dir=0&filepath=screenshot%2Fscreenshot-6.png&oid=78efdcb3ffbd777ce46fb5decc887e4558b9d528&sha=66cd3d83db1653c6cee6fbd6b79bbaa6c5ff1005)
+
+
 ### 常见部署问题
 
 1. **tomcat和mysql不在同一台服务器上**
