@@ -24,9 +24,6 @@ public class PowerTeamConfig {
     @Value("${powerTeam.pageSize}")
     private Integer pageSize;
 
-    @Value("${powerTeam.openRegistry}")
-    private Boolean openRegistry;
-
     @Value("${powerTeam.baiduMapAk}")
     private String baiduMapAk;
 

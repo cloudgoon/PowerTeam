@@ -17,8 +17,5 @@ powerTeam:
     #页大小
     pageSize: 15
 
-    #开放注册
-    openRegistry: true
-
     #百度地图ak
     baiduMapAk: G2zm7GgGGesyLUEoUfVF2jheDGRrkecU
