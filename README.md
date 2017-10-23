@@ -8,9 +8,10 @@
 
 ### 安装步骤
 
-1. 建立数据库
-2. 拷贝powerteam-0.0.1.war到tomcat的webapps目录下
-3. 启动tomcat
+1. 下载war包 https://gitee.com/yupeng957/PowerTeam/attach_files
+2. 建立数据库
+3. 拷贝powerteam-0.0.1.war到tomcat的webapps目录下
+4. 启动tomcat
 
 ### 建立PowerTeam数据库
 
