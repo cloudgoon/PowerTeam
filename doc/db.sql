@@ -1,4 +1,4 @@
-drop database powerteam;
+drop database if exists powerteam;
 
 create database powerteam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
