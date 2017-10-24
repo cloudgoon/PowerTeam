@@ -1,7 +1,6 @@
 package com.powerteam.model.crm;
 
 import com.powerteam.model.sys.User;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import lombok.Data;
 
 import java.util.Date;
