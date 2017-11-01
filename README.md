@@ -77,3 +77,7 @@
     ...
 </Host>
 ```
+
+### 捐赠
+请作者喝一杯咖啡吧！
+![image](https://raw.githubusercontent.com/wiki/yupeng957/element-admin/Pay.png)
