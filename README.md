@@ -1,4 +1,4 @@
-# 重磅提醒 :tada::tada::tada:
+# 重磅提醒 :tada: :tada: :tada:
 作者开发的基于Vue2.0和Element-ui2.0的后台模板项目([element-admin](https://github.com/yupeng957/element-admin))已发布，欢迎各位试用。
 
 # 安装说明
