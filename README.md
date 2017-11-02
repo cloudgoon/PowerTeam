@@ -32,7 +32,7 @@
 6. 启动tomcat
 
 ### 运行PowerTeam
-访问 http://localhost:8080/powerteam enjoy it! 如果任何问题，请加入QQ群(466234012)咨询
+访问 http://localhost:8080/powerteam enjoy it! 如果任何问题， **请加入:family:QQ群(466234012)咨询** 
 > 默认的管理员帐号为admin 密码为admin
 
 
